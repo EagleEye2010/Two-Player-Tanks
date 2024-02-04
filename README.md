@@ -1,4 +1,9 @@
 # Two Player Tanks
+
+This is a Windows game that is made in Unity. Just download, unzip, and play!
+
+There might be a screen that says "Windows Defender protected your PC". Just click "View more" and then "Run anyway". It is caused because I need to pay $$$ to Microsoft to get a special lisence.
+
 ## How to Play:
 - Controls for Player 1: WASD to move, F to shoot.
 - Controls for Player 2: Arrow Keys to move, Space to shoot.
